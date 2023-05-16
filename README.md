@@ -31,8 +31,6 @@ Thanks to Aitasai ❤ for the dark-sushi-25d Stable Diffusion model (https://civ
 - bad-artist-anime (Thanks to NiXXerHATTER59 ❤)
 - bad-hands-5 (Thanks to yesyeahvh ❤ https://huggingface.co/yesyeahvh/bad-hands-5)
 - bad-image-v2-39000 (Thanks to Xynon ❤ https://huggingface.co/Xynon/models)
-- EasyNegative (Thanks to gsdf ❤ https://huggingface.co/datasets/gsdf/EasyNegative)
-- EasyNegativeV2 (Thanks to gsdf ❤ https://huggingface.co/datasets/gsdf/EasyNegative)
 - ng_deepnegative_v1_75t (Thanks to FapMagi ❤ https://civitai.com/models/4629/deep-negative-v1x)
 - verybadimagenegative_v1.3 (Thanks to yunleme ❤ https://civitai.com/models/11772/verybadimagenegative)
 
