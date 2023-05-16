@@ -13,15 +13,15 @@ https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio <br />
 https://github.com/PaddlePaddle/PaddleNLP <br />
 
 #### Tutorial
-- Please add your lora model in `work/lora` folder if your lora file name `epi_noiseoffset2.safetensors` your trigger token is `<lora:epi_noiseoffset2:1.0>`
-- Please add your textual inversion model in `work/textual_inversion` if your textual inversion file name `koh_daisyridley.pt` your trigger token is `koh_daisyridley`
+- Please add your lora model in `lora` folder if your lora file name `epiNoiseoffset_v2.safetensors` your trigger token is `<lora:epiNoiseoffset_v2:1.0>`
+- Please add your textual inversion model in `textual_inversion` if your textual inversion file name `koh_daisyridley.pt` your trigger token is `koh_daisyridley`
 
 #### Installed Model
 Thanks to pleasebankai ❤ for the BraV5 Stable Diffusion model (https://civitai.com/models/25494/brabeautiful-realistic-asians-v4) <br />
 Thanks to Aitasai ❤ for the dark-sushi-25d Stable Diffusion model (https://civitai.com/models/48671/dark-sushi-25d-25d) <br />
 
 #### Installed positive LoRAs
-- \<lora:epi_noiseoffset2:1.0\> (Thanks to epinikion ❤ https://civitai.com/models/13941/epinoiseoffset)
+- \<lora:epiNoiseoffset_v2:1.0\> (Thanks to epinikion ❤ https://civitai.com/models/13941/epinoiseoffset)
 
 #### Installed positive embeds
 - koh_daisyridley (Thanks to SDKoh ❤ https://civitai.com/models/21131/daisy-ridley-embedding)
