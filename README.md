@@ -22,9 +22,6 @@ Thanks to Aitasai ❤ for the dark-sushi-25d Stable Diffusion model (https://civ
 
 #### Installed positive LoRAs
 - \<lora:epi_noiseoffset2:1.0\> (Thanks to epinikion ❤ https://civitai.com/models/13941/epinoiseoffset)
-- \<lora:Japanese-doll-likeness:1.0\> (Thanks to AnonPerson ❤)
-- \<lora:Korean-doll-likeness:1.0\> (Thanks to AnonPerson ❤)
-- \<lora:Taiwan-doll-likeness:1.0\> (Thanks to AnonPerson ❤)
 
 #### Installed positive embeds
 - koh_daisyridley (Thanks to SDKoh ❤ https://civitai.com/models/21131/daisy-ridley-embedding)
