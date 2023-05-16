@@ -5,8 +5,8 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/paddle-ppdiffusers-webui-aistudio-colab/blob/main/brav5_paddle_ppdiffusers_webui_aistudio_colab.ipynb) | brav5_paddle_ppdiffusers_webui_aistudio_colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/paddle-ppdiffusers-webui-aistudio-colab/blob/main/dark_sushi_25d_paddle_ppdiffusers_webui_aistudio_colab.ipynb) | dark_sushi_25d_paddle_ppdiffusers_webui_aistudio_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/paddle-ppdiffusers-webui-aistudio-colab/blob/main/brav5_paddle_ppdiffusers_webui_aistudio_colab.ipynb) | brav5_paddle_ppdiffusers_webui_aistudio_colab <br /> Thanks to pleasebankai ❤ <br /> [pleasebankai/brabeautiful-realistic-asians-v4](https://civitai.com/models/25494/brabeautiful-realistic-asians-v4)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/paddle-ppdiffusers-webui-aistudio-colab/blob/main/dark_sushi_25d_paddle_ppdiffusers_webui_aistudio_colab.ipynb) | dark_sushi_25d_paddle_ppdiffusers_webui_aistudio_colab <br /> Thanks to Aitasai ❤ <br /> [Aitasai/dark-sushi-25d-25d](https://civitai.com/models/48671/dark-sushi-25d-25d)
 
 ## Main Repo
 https://github.com/camenduru/paddle-ppdiffusers-webui-aistudio <br />
@@ -15,10 +15,6 @@ https://github.com/PaddlePaddle/PaddleNLP <br />
 #### Tutorial
 - Please add your lora model in `lora` folder if your lora file name `epiNoiseoffset_v2.safetensors` your trigger token is `<lora:epiNoiseoffset_v2:1.0>`
 - Please add your textual inversion model in `textual_inversion` if your textual inversion file name `koh_daisyridley.pt` your trigger token is `koh_daisyridley`
-
-#### Installed Model
-Thanks to pleasebankai ❤ for the BraV5 Stable Diffusion model (https://civitai.com/models/25494/brabeautiful-realistic-asians-v4) <br />
-Thanks to Aitasai ❤ for the dark-sushi-25d Stable Diffusion model (https://civitai.com/models/48671/dark-sushi-25d-25d) <br />
 
 #### Installed positive LoRAs
 - \<lora:epiNoiseoffset_v2:1.0\> (Thanks to epinikion ❤ https://civitai.com/models/13941/epinoiseoffset)
